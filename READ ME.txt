@@ -1,0 +1,11 @@
+>> Unzipp the file and create a database "mysocialdb.sql"
+>> import the database
+
+Create an Account or Login with following detail:
+User login details
+	>> Legend
+	>> 12345
+
+Admin login
+	username:   admin
+	password:   admin
